@@ -12,6 +12,6 @@ This repository contains my coursework and materials for the Open Source Softwar
   - [hw.md](https://github.com/bennColl-cs4387/Nath/tree/main/Hw3/Hw3): 
   
   
-- **gmm.txt**
+ **gmm.txt**
   - (https://github.com/bennColl-cs4387/Nath/blob/main/gmm.txt).
 
