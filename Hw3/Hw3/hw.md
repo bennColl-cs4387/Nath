@@ -1,6 +1,6 @@
 # Contributing to Plane
 
-I plan to contribute to **[Plane]**(https://github.com/makeplane/plane), an open-source project management tool that serves as an alternative to JIRA, Linear, Monday, and Asana. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
+I plan to contribute to **[Plane](https://github.com/makeplane/plane)**, an open-source project management tool that serves as an alternative to JIRA, Linear, Monday, and Asana. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 
 ## Motivation
 
