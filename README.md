@@ -13,5 +13,5 @@ This repository contains my coursework and materials for the Open Source Softwar
   
   
 - **gmm.txt**
-  - [Updated document](https://github.com/bennColl-cs4387/Nath/blob/main/gmm.txt) formerly known as `git_history.txt`.
+  - (https://github.com/bennColl-cs4387/Nath/blob/main/gmm.txt).
 
