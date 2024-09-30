@@ -11,8 +11,8 @@ This repository contains my coursework and materials for the Open Source Softwar
   - [hw.md](https://github.com/bennColl-cs4387/Nath/tree/main/Hw3/Hw3): 
   
 - **Syllabus_ Open Source Software in Practice (CS4387).md**
-  - [Course syllabus](https://github.com/bennColl-cs4387/Nath/blob/main/Syllabus_%20Open%20Source%20Software%20in%20Practice%20(CS4387).md) (added last week).
+  - [Course syllabus](https://github.com/bennColl-cs4387/Nath/blob/main/Syllabus_%20Open%20Source%20Software%20in%20Practice%20(CS4387).md)).
   
 - **gmm.txt**
-  - [Updated document](https://github.com/bennColl-cs4387/Nath/blob/main/gmm.txt) formerly known as `git_history.txt` (renamed last week).
+  - [Updated document](https://github.com/bennColl-cs4387/Nath/blob/main/gmm.txt) formerly known as `git_history.txt`.
 
