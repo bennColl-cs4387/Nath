@@ -17,10 +17,12 @@ I initially attempted to set up the Plane project but encountered an error with 
    Resolving deltas: 100% (60318/60318), done.
    
 2. **Navigated to the Repository Directory**:
+   ```powershell
 
 PS C:\Users\Nath> cd first-contributions
 
 3. **Created a New Branch**:
+   ```powershell
 
 PS C:\Users\Nath\first-contributions> git switch -c add-nathfreires
 Switched to a new branch 'add-nathfreires'
