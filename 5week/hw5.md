@@ -18,15 +18,10 @@ I initially attempted to set up the Plane project but encountered an error with 
    
 2. **Navigated to the Repository Directory**:
 
-
-powershell
-Copiar código
 PS C:\Users\Nath> cd first-contributions
 
 3. **Created a New Branch**:
 
-powershell
-Copiar código
 PS C:\Users\Nath\first-contributions> git switch -c add-nathfreires
 Switched to a new branch 'add-nathfreires'
 
