@@ -18,11 +18,11 @@ I initially attempted to set up the Plane project but encountered an error with 
    
 2. **Navigated to the Repository Directory**:
    ```powershell
-PS C:\Users\Nath> cd first-contributions
+   PS C:\Users\Nath> cd first-contributions
 
 3. **Created a New Branch**:
    ```powershell
-PS C:\Users\Nath\first-contributions> git switch -c add-nathfreires
+   PS C:\Users\Nath\first-contributions> git switch -c add-nathfreires
 Switched to a new branch 'add-nathfreires'
 
 **Opened the Code in an IDE: I used VSCode to review and edit the code.**
