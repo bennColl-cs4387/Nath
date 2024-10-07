@@ -1,7 +1,7 @@
 
 # Summary of Contributions
 
-I initially attempted to set up the Plane project but encountered an error with the `.\setup.ps1` script. Due to this issue, I decided to switch to a beginner-friendly open-source project, the First Contributions repository. 
+I initially attempted to set up the Plane project but encountered an error with the `.\setup.ps1` script. Due to this issue, I decided to switch to a beginner-friendly open-source project, the First Contributions repository, which can be found [here](https://github.com/nathfreires/first-contributions).
 
 ## Steps I Followed:
 
