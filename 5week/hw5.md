@@ -15,12 +15,18 @@ I initially attempted to set up the Plane project but encountered an error with 
    remote: Total 94980 (delta 170), reused 236 (delta 151), pack-reused 94722 (from 1)
    Receiving objects: 100% (94980/94980), 43.22 MiB | 7.00 MiB/s, done.
    Resolving deltas: 100% (60318/60318), done.
+Navigated to the Repository Directory:
 
-  Navigated to the Cloned Directory and Created a New Branch:
 powershell
 Copiar código
 PS C:\Users\Nath> cd first-contributions
+Created a New Branch:
+
+powershell
+Copiar código
 PS C:\Users\Nath\first-contributions> git switch -c add-nathfreires
 Switched to a new branch 'add-nathfreires'
+Opened the Code in an IDE: I used VSCode to review and edit the code.
 
+Reviewed the .env Files: I checked the various .env files available in different folders for the required environment variables.
 # I will come back to Plane later and debug more
