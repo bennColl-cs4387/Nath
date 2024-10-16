@@ -28,4 +28,3 @@ Switched to a new branch 'add-nathfreires'
 **Opened the Code in an IDE: I used VSCode to review and edit the code.**
 
 Reviewed the .env Files: I checked the various .env files available in different folders for the required environment variables.
-##### I will come back to Plane later and debug more
