@@ -1,4 +1,4 @@
-# Open Source Software in Practice
+# First Essay
 
 You can find the essay on open-source software in practice at the following link:
 
