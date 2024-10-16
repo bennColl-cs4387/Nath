@@ -12,6 +12,6 @@ This repository contains my coursework and materials for the Open Source Softwar
   
 - **📝 [Git Murder Mystery](https://github.com/bennColl-cs4387/Nath/blob/main/gmm.txt)**
 
-- **📄 [My Essay on Open Source Development](https://github.com/bennColl-cs4387/Nath/tree/main/Essay)**
+- **📄 [First Essay](https://github.com/bennColl-cs4387/Nath/tree/main/Essay)**
 
 
