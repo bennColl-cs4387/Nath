@@ -10,7 +10,7 @@ This repository contains my coursework and materials for the Open Source Softwar
   
 - **💻 [Homework 3](https://github.com/bennColl-cs4387/Nath/tree/main/Hw3/Hw3): [hw.md](https://github.com/bennColl-cs4387/Nath/tree/main/Hw3/Hw3)**
   
-- **📝 [gmm.txt](https://github.com/bennColl-cs4387/Nath/blob/main/gmm.txt)**
+- **📝 [Git Murder Mystery](https://github.com/bennColl-cs4387/Nath/blob/main/gmm.txt)**
 
 - **📄 [My Essay on Open Source Development](https://github.com/bennColl-cs4387/Nath/tree/main/Essay)**
 
