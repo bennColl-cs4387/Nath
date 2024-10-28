@@ -9,7 +9,7 @@ This repository contains my coursework and materials for the Open Source Softwar
 **📚 [Syllabus: Open Source Software in Practice (CS4387)](https://github.com/bennColl-cs4387/Nath/tree/main/Syllabus)**
 
 ## 💻 Homeworks
-- [Week 3](https://github.com/sinhabintebabul/Nath-s-repo/tree/c9f952a45877bd39af3080729778ff662f1790a2/Homework/Week%2030
+- [Week 3](https://github.com/sinhabintebabul/Nath-s-repo/tree/c9f952a45877bd39af3080729778ff662f1790a2/Homework/Week%2030)
 - [Week 4](https://github.com/sinhabintebabul/Nath-s-repo/tree/c9f952a45877bd39af3080729778ff662f1790a2/Homework/Week%204)
 - [Week 5](https://github.com/sinhabintebabul/Nath-s-repo/tree/c9f952a45877bd39af3080729778ff662f1790a2/Homework/Week%205)
 - [Week 6](https://github.com/sinhabintebabul/Nath-s-repo/tree/c9f952a45877bd39af3080729778ff662f1790a2/Homework/Week%206)
