@@ -6,12 +6,21 @@ This repository contains my coursework and materials for the Open Source Softwar
 
 ## Links
 
-- **📚 [Syllabus: Open Source Software in Practice (CS4387)](https://github.com/bennColl-cs4387/Nath/tree/main/Syllabus)**
-  
-- **💻 [Homework 3](https://github.com/bennColl-cs4387/Nath/tree/main/Hw3/Hw3): [hw.md](https://github.com/bennColl-cs4387/Nath/tree/main/Hw3/Hw3)**
-  
-- **📝 [Git Murder Mystery](https://github.com/bennColl-cs4387/Nath/blob/main/gmm.txt)**
+**📚 [Syllabus: Open Source Software in Practice (CS4387)](https://github.com/bennColl-cs4387/Nath/tree/main/Syllabus)**
 
-- **📄 [First Essay](https://github.com/bennColl-cs4387/Nath/tree/main/Essay)**
+## 💻 Homeworks
+- [Week 3]
+- [Week 4]
+- [Week 5]
+- [Week 6]
+- [Week 9]
+  
+## 📝 Assignments
+- Essay
+
+## 📄 Group Fix
+- P5.js Website Content Issue 516
+
+## 💻 Solo Fix
 
 
