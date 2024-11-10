@@ -20,4 +20,4 @@ To resolve this, I am implementing logic to make the button inactive immediately
 
 - **System Setup**: Configuring WSL2, Docker, and OpenJDK in Windows has been a learning curve, but it has strengthened my understanding of cross-platform setup.
 
-**Secondary Issue**: P5.js Web Editor - [Issue #3145: Wrong Language Displayed in Console](https://github.com/processing/p5.js-web-editor/issues/3145)  
+### **Secondary Issue**: P5.js Web Editor - [Issue #3145: Wrong Language Displayed in Console](https://github.com/processing/p5.js-web-editor/issues/3145)  
