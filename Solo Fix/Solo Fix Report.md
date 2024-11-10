@@ -1,10 +1,11 @@
 # Solo Fix Progress Report
 
 **Project**: Appsmith & P5.js  
-**Primary Issue**: Appsmith - [Issue #37281: Rapid Clicks on "Create Workspace" Button Causing Duplicate Workspaces](https://github.com/appsmithorg/appsmith/issues/37281)  
-**Objective**: Address a bug that causes duplicate workspaces to be created when clicking the "create new workspace" button rapidly.
 
 ---
+
+### **Primary Issue**: Appsmith - [Issue #37281: Rapid Clicks on "Create Workspace" Button Causing Duplicate Workspaces](https://github.com/appsmithorg/appsmith/issues/37281)  
+**Objective**: Address a bug that causes duplicate workspaces to be created when clicking the "create new workspace" button rapidly.
 
 ### Progress and Exploration
 
