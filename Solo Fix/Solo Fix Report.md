@@ -11,7 +11,7 @@
 
 Setting up the Appsmith server locally has been challenging, especially with the need to configure WSL2, Docker, OpenJDK, and environment variables on my Windows system—areas I hadn’t worked with before. Despite these challenges, I’ve made significant progress in understanding system configurations, although I am still navigating some aspects of the setup.
 
-In the Appsmith issue I’m working on, rapidly clicking "create a new workspace" leads to multiple workspaces with identical names. I successfully reproduced the bug on my setup, allowing me to trace its origin within the codebase.
+In the Appsmith issue I’m working on, rapidly clicking "create a new workspace" leads to multiple workspaces with identical names. I was able to reproduced the bug on my computer, and started to track the bug with the inspect function on my computer. 
 
 ### Proposed Solution
 
