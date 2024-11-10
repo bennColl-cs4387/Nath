@@ -19,6 +19,5 @@ To resolve this, I am implementing logic to make the button inactive immediately
 ### Current Challenges
 
 - **System Setup**: Configuring WSL2, Docker, and OpenJDK in Windows has been a learning curve, but it has strengthened my understanding of cross-platform setup.
-- **Button State Management**: Ensuring that the button correctly disables and re-enables only after the workspace creation process completes, which involves testing and refining the timing of button state changes.
 
 **Secondary Issue**: P5.js Web Editor - [Issue #3145: Wrong Language Displayed in Console](https://github.com/processing/p5.js-web-editor/issues/3145)  
