@@ -22,5 +22,6 @@ This repository contains my coursework and materials for the Open Source Softwar
 - [P5.js Website Content Issue 516](https://github.com/sinhabintebabul/Nath-s-repo/tree/c9f952a45877bd39af3080729778ff662f1790a2/Group%20Fix)
 - [Final Group Fix](https://github.com/bennColl-cs4387/Nath/blob/main/Group%20Fix/p5.js_516.md)
 ## 💻 Solo Fix
-- [1st Report - Solo Fix - AppSmith & P5.js](https://github.com/bennColl-cs4387/Nath/blob/main/Solo%20Fix/Solo%20Fix%20Report.md)
+- [1st Report - Solo Fix - AppSmith & P5.js](https://github.com/bennColl-cs4387/Nath/blob/main/Solo%20Fix/1st%20Solo%20Fix%20Report.md)
+- [2nd Report - Solo Fix](https://github.com/bennColl-cs4387/Nath/blob/main/Solo%20Fix/2nd%20Solo%20Fix%20Report.md)
 
