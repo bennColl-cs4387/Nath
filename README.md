@@ -24,4 +24,7 @@ This repository contains my coursework and materials for the Open Source Softwar
 ## 💻 Solo Fix
 - [1st Report - Solo Fix - AppSmith & P5.js](https://github.com/bennColl-cs4387/Nath/blob/main/Solo%20Fix/1st%20Solo%20Fix%20Report.md)
 - [2nd Report - Solo Fix](https://github.com/bennColl-cs4387/Nath/blob/main/Solo%20Fix/2nd%20Solo%20Fix%20Report.md)
+- [3rd Report - Solo Fix](https://github.com/bennColl-cs4387/Nath/blob/main/Solo%20Fix/3rdd%20Solo%20Fix%20Report.md)
+- [4th Report - Solo Fix](https://github.com/bennColl-cs4387/Nath/blob/main/Solo%20Fix/4th%20Solo%20Fix%20Report.md)
+
 
