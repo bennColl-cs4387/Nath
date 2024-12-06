@@ -1,4 +1,4 @@
-### What Was the Problem? (1st imahge)
+### What Was the Problem? (1st image)
 The search box wasn’t working as expected because the text you typed in was practically invisible! For example, in the first image, I typed "hello," but you can't see it because the text color was almost the same as the background.
 
 ### How Did I Know Something Was There? (2nd image)
