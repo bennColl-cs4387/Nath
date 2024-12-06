@@ -9,7 +9,7 @@ The issue [Search box unusable due to colors](https://github.com/codesandbox/cod
 To resolve this, the CSS file located in the `examples/_next/static/css` directory was updated. The modified code is as follows:
 
 ```css
-.dCAWTi {
+[type=search] {
     font-family: Inter, sans-serif;
     border-radius: 4px;
     border: 1px solid;
