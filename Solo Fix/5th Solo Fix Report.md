@@ -2,7 +2,8 @@
 
 ## Issue Description
 
-The issue "[Search box unusable due to colors](https://github.com/codesandbox/codesandbox-client/issues/8653)" highlighted user confusion when interacting with the search bar. The problem arose because the typed text color closely matched the background color, making almost impossible to read what was written.
+The issue [Search box unusable due to colors](https://github.com/codesandbox/codesandbox-client/issues/8653) highlighted user confusion when interacting with the search bar. The bug was caused by the typed text color being nearly identical to the background color, making it almost impossible to read what was written.
+
 ## Solution
 
 To resolve this, the CSS file located in the `examples/_next/static/css` directory was updated. The modified code is as follows:
