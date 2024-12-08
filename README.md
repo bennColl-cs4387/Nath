@@ -18,11 +18,11 @@ At first, it was tricky to figure out where to start—finding a good first issu
 
 # Solo Fixes
 
-## [4th Solo Fix Report](https://github.com/bennColl-cs4387/Nath/blob/main/Solo%20Fix/4th%20Solo%20Fix%20Report.md)
+### [4th Solo Fix Report](https://github.com/bennColl-cs4387/Nath/blob/main/Solo%20Fix/4th%20Solo%20Fix%20Report.md)
 
 I fixed a bug on the **Kubernetes** website where text in **Case Studies** boxes was missing by updating the CSS for proper visibility and styling.
 
-## [5th Solo Fix Report](https://github.com/bennColl-cs4387/Nath/blob/main/Solo%20Fix/5th%20Solo%20Fix%20Report.md)
+### [5th Solo Fix Report](https://github.com/bennColl-cs4387/Nath/blob/main/Solo%20Fix/5th%20Solo%20Fix%20Report.md)
 
 I fixed the **search box** issue where the text was hard to read by updating the CSS to make the text color stand out more against the background.
 
