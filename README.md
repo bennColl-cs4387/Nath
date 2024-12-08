@@ -8,11 +8,13 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/natanaele
 
 ---
 
-# Group Fix
+## Group Fix
 
 I worked with **Cally** on fixing Website Issue **516** to make the **p5.js** website more responsive. The main issue was that text and elements were getting cut off on smaller screens.
 
 At first, it was tricky to figure out where to start—finding a good first issue, understanding how to build the project, and getting familiar with the code. But once we got the hang of it, the fix itself was relatively straightforward. We experimented with different properties and breakpoints until we found the most effective solution to make the page responsive across devices.
+
+You can check out our -> [Issue 516 fix](https://github.com/bennColl-cs4387/Nath/tree/main/Group%20Fix).
 
 ---
 
