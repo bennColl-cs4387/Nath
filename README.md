@@ -33,7 +33,7 @@ I fixed the **search box** issue where the text was hard to read by updating the
 ---
 # Essay 
 
-Here is a link for my [essay](https://github.com/bennColl-cs4387/Nath/blob/main/Assignments/First_Essay.md)
+Here is a link for my [essay](https://github.com/bennColl-cs4387/Nath/blob/main/Assignments/First_Essay.md).
 
 ---
 
