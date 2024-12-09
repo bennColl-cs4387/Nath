@@ -8,7 +8,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/natanaele
 
 ---
 
-## Group Fix
+# Group Fix
 
 I worked with [@Cally](https://github.com/callybton) on fixing Website Issue [**516**](https://github.com/bennColl-cs4387/Nath/tree/main/Group%20Fix) to make the [**p5.js**](https://p5js.org/) website more responsive. The main issue was that text and elements were getting cut off on smaller screens.
 
