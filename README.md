@@ -10,7 +10,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/natanaele
 
 ## Group Fix
 
-I worked with **Cally** on fixing Website Issue **516** to make the **p5.js** website more responsive. The main issue was that text and elements were getting cut off on smaller screens.
+I worked with [@Cally](https://github.com/camisola) on fixing Website Issue [**516**](https://github.com/bennColl-cs4387/Nath/tree/main/Group%20Fix)) to make the [**p5.js**](https://p5js.org/) website more responsive. The main issue was that text and elements were getting cut off on smaller screens.
 
 At first, it was tricky to figure out where to start—finding a good first issue, understanding how to build the project, and getting familiar with the code. But once we got the hang of it, the fix itself was relatively straightforward. We experimented with different properties and breakpoints until we found the most effective solution to make the page responsive across devices.
 
@@ -20,11 +20,11 @@ You can check out our -> [Issue 516 fix](https://github.com/bennColl-cs4387/Nath
 
 # Solo Fixes
 
-### [4th Solo Fix Report](https://github.com/bennColl-cs4387/Nath/blob/main/Solo%20Fix/4th%20Solo%20Fix%20Report.md)
+### [Fix 1](https://github.com/bennColl-cs4387/Nath/blob/main/Solo%20Fix/4th%20Solo%20Fix%20Report.md)
 
 I fixed a bug on the **Kubernetes** website where text in **Case Studies** boxes was missing by updating the CSS for proper visibility and styling.
 
-### [5th Solo Fix Report](https://github.com/bennColl-cs4387/Nath/blob/main/Solo%20Fix/5th%20Solo%20Fix%20Report.md)
+### [Fix 2](https://github.com/bennColl-cs4387/Nath/blob/main/Solo%20Fix/5th%20Solo%20Fix%20Report.md)
 
 I fixed the **search box** issue where the text was hard to read by updating the CSS to make the text color stand out more against the background.
 
