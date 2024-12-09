@@ -21,7 +21,7 @@ At first, it was tricky to figure out where to start—finding a good first issu
 
 ### [Fix 1](https://github.com/bennColl-cs4387/Nath/blob/main/Solo%20Fix/4th%20Solo%20Fix%20Report.md)
 
-I fixed a bug on the **Kubernetes** website where text in **Case Studies** boxes was missing by updating the CSS for proper visibility and styling.
+I fixed a bug on the [**Kubernetes**](https://kubernetes.io/) website where text in **Case Studies** boxes was missing by updating the CSS for proper visibility and styling.
 
 ### [Fix 2](https://github.com/bennColl-cs4387/Nath/blob/main/Solo%20Fix/5th%20Solo%20Fix%20Report.md)
 
@@ -30,7 +30,7 @@ I fixed the **search box** issue where the text was hard to read by updating the
 ---
 # Essay
 
-Here is a link for my [essay](https://github.com/bennColl-cs4387/Nath/blob/main/Assignments/Essay%20-%20Open%20Source%20Software%20in%20Practice%20.md)
+Here is a link for my [essay](https://github.com/bennColl-cs4387/Nath/blob/main/Assignments/Essay%20-%20Open%20Source%20Software%20in%20Practice%20.md).
 
 # Learnings
 
