@@ -14,7 +14,6 @@ I worked with [@Cally](https://github.com/callybton) on fixing Website Issue [**
 
 At first, it was tricky to figure out where to start—finding a good first issue, understanding how to build the project, and getting familiar with the code. But once we got the hang of it, the fix itself was relatively straightforward. We experimented with different properties and breakpoints until we found the most effective solution to make the page responsive across devices.
 
-You can check out our -> [Issue 516 fix](https://github.com/bennColl-cs4387/Nath/tree/main/Group%20Fix).
 
 ---
 
