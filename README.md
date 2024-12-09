@@ -30,6 +30,13 @@ I fixed the **search box** issue where the text was hard to read by updating the
 
 ---
 
+---
+# Essay 
+
+Here is a link for my [essay](https://github.com/bennColl-cs4387/Nath/blob/main/Assignments/First_Essay.md)
+
+---
+
 # Learnings
 
 This course has been invaluable in helping me learn essential skills step by step, building a solid foundation for the final project. Before this course, I had never worked with **MDX files** or different libraries for web development. The learning curve was steep, especially when navigating challenges on a **Windows system**. Since many open-source projects have guidelines aimed at **Linux** users, I had to adjust by learning new commands and figuring out how to explore different codebases.
