@@ -29,8 +29,6 @@ I fixed a bug on the **Kubernetes** website where text in **Case Studies** boxes
 I fixed the **search box** issue where the text was hard to read by updating the CSS to make the text color stand out more against the background.
 
 ---
-
----
 # Essay 
 
 Here is a link for my [essay](https://github.com/bennColl-cs4387/Nath/blob/main/Assignments/First_Essay.md).
